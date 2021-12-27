@@ -2,11 +2,13 @@
 
 ### Hello World! I am <b><a target="_blank" href="javascript:;">autofelix</a></b>.
 
-- :orange_book: I am passionate about open source software. 
-- :hammer: My projects are trusted by thousands of developers.
-- <a href="https://github.com/autofelix">
-            <img src="https://img.shields.io/badge/github-%E7%8C%BF%E5%8F%8B%E7%BD%91-red.svg" alt="" title="autofelix的github" /></a>
-        <a href="https://gitee.com/autofelix">
+- :orange_book: Passionate about open source software. 
+- :hammer: My projects are trusted by developers.
+- :sun_with_face: What i have achieved.
+
+<a href="https://github.com/autofelix">
+    <img src="https://img.shields.io/badge/github-%E7%8C%BF%E5%8F%8B%E7%BD%91-red.svg" alt="" title="autofelix的github" /></a>
+<a href="https://gitee.com/autofelix">
 
 ---
 
@@ -36,4 +38,4 @@
 | [javascript-gobang](https://github.com/surmon-china/javascript-gobang) | [`🔗 examples`](https://github.surmon.me/javascript-gobang/gobang.dom.html) | [![GitHub stars](https://img.shields.io/github/stars/surmon-china/javascript-gobang?style=flat-square&label=✨)](https://github.com/surmon-china/javascript-gobang/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/surmon-china/javascript-gobang?style=flat-square&label=%20)](https://github.com/surmon-china/javascript-gobang/commits) | - | ![GitHub top language](https://img.shields.io/github/languages/top/surmon-china/javascript-gobang?style=flat-square)
 | [better-itg-flat-dark-vscode-theme](https://github.com/surmon-china/better-itg-flat-dark-vscode-theme) <img src="https://raw.githubusercontent.com/surmon-china/surmon-china/main/icons/vscode.svg" height="14px" /> | [`🔗 marketplace`](https://marketplace.visualstudio.com/items?itemName=surmon.theme-better-itg-flat-dark#overview) | [![GitHub stars](https://img.shields.io/github/stars/surmon-china/better-itg-flat-dark-vscode-theme?style=flat-square&label=✨)](https://github.com/surmon-china/better-itg-flat-dark-vscode-theme/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/surmon-china/better-itg-flat-dark-vscode-theme?style=flat-square&label=%20)](https://github.com/surmon-china/better-itg-flat-dark-vscode-theme/commits) | - | -
 | [github.surmon.me](https://github.com/surmon-china/surmon-china.github.io) | - | [![GitHub stars](https://img.shields.io/github/stars/surmon-china/surmon-china.github.io?style=flat-square&label=✨)](https://github.com/surmon-china/surmon-china.github.io/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/surmon-china/surmon-china.github.io?style=flat-square&label=%20)](https://github.com/surmon-china/surmon-china.github.io/commits) | - | ![GitHub top language](https://img.shields.io/github/languages/top/surmon-china/surmon-china.github.io?style=flat-square)
-| [wordpress themes](https://github.com/surmon-china?tab=repositories&q=wordpress&type=&language=&sort=) <img src="https://raw.githubusercontent.com/surmon-china/surmon-china/main/icons/wordpress.svg" height="14px" /> ⚠️ | - | - | - | - | ![GitHub top language](https://img.shields.io/github/languages/top/surmon-china/wordpress-theme-think?style=flat-square)
+| [wordpress themes](https://github.com/surmon-china?tab=repositories&q=wordpress&type=&language=&sort=) <img src="https://raw.githubusercontent.com/surmon-china/surmon-china/main/icons/wordpress.svg" height="14px" /> ⚠️ | - | - | - | - |
