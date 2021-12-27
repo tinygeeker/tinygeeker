@@ -7,7 +7,7 @@
 - :sun_with_face: What i have achieved.
 
 <a href="https://autofelix.blog.csdn.net">
-    <img src="https://img.shields.io/badge/csdn visit-115k-red.svg" alt="" title="autofelix的github" />
+    <img src="https://img.shields.io/badge/CSDN Page View-115k-E65A65.svg" alt="" title="autofelix的github" />
 </a>
 
 ---
