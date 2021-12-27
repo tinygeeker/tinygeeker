@@ -7,11 +7,11 @@
 - :sun_with_face: What i have achieved.
 
 <a href="https://autofelix.blog.csdn.net" target='_blank'>
-    <img src="https://img.shields.io/badge/CSDN Page View-115k-E65A65.svg" alt="" title="autofelix的github" />
+    <img src="https://img.shields.io/badge/CSDN Page View-115K-E65A65.svg" alt="" title="autofelix的github" />
 </a>
 
-<a href="https://autofelix.blog.csdn.net" target='_blank'>
-    <img src="https://img.shields.io/badge/CSDN Page View-115k-E65A65.svg" alt="" title="autofelix的github" />
+<a href="https://cloud.tencent.com/developer/user/8345747/articles">
+    <img src="https://img.shields.io/badge/tencentcloud Page View-200K-blue.svg" alt="" title="autofelix的腾讯云社区" />
 </a>
 
 ---
