@@ -2,10 +2,11 @@
 
 ### > Hello World! I am <b><a target="_blank" href="javascript:;">autofelix</a></b>.
 
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
+- :orange_book: I am passionate about open source software and giving back to others. 
+- :hammer: My projects are trusted by thousands of developers all over the world.
+- <a href="https://github.com/autofelix">
+            <img src="https://img.shields.io/badge/github-%E7%8C%BF%E5%8F%8B%E7%BD%91-red.svg" alt="" title="autofelix的github" /></a>
+        <a href="https://gitee.com/autofelix">
 
 ---
 
