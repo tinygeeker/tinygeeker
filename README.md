@@ -2,11 +2,15 @@
 
 ### Hello World! I am <b><a target="_blank" href="javascript:;">autofelix</a></b>.
 
-- :orange_book: Passionate about open source software. 
-- :hammer: My projects are trusted by developers.
+- :hearts: Passionate about open source software. 
+- :1st_place_medal: My projects are trusted by developers.
 - :sun_with_face: What i have achieved.
 
-<a href="https://autofelix.blog.csdn.net">
+<a href="https://autofelix.blog.csdn.net" target='_blank'>
+    <img src="https://img.shields.io/badge/CSDN Page View-115k-E65A65.svg" alt="" title="autofelix的github" />
+</a>
+
+<a href="https://autofelix.blog.csdn.net" target='_blank'>
     <img src="https://img.shields.io/badge/CSDN Page View-115k-E65A65.svg" alt="" title="autofelix的github" />
 </a>
 
