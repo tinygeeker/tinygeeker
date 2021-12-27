@@ -6,9 +6,9 @@
 - :hammer: My projects are trusted by developers.
 - :sun_with_face: What i have achieved.
 
-<a href="https://github.com/autofelix">
-    <img src="https://img.shields.io/badge/csdn-38292-red.svg" alt="" title="autofelix的github" /></a>
-<a href="https://gitee.com/autofelix">
+<a href="https://autofelix.blog.csdn.net">
+    <img src="https://img.shields.io/badge/csdn visit-115k-red.svg" alt="" title="autofelix的github" />
+</a>
 
 ---
 
