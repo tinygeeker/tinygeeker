@@ -1,9 +1,9 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=autofelix&show_icons=true&icon_color=E65A65&text_color=adbac7&bg_color=2d333b&hide_title=true&hide_border=true&card_width=100" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=autofelix&show_icons=true&icon_color=E65A65&text_color=adbac7&bg_color=2d333b&hide_title=true&hide_border=true" />
 
 ### Hello World! I am <b><a target="_blank" href="javascript:;">autofelix</a></b>.
 
-- :orange_book: I am passionate about open source software and giving back to others. 
-- :hammer: My projects are trusted by thousands of developers all over the world.
+- :orange_book: I am passionate about open source software. 
+- :hammer: My projects are trusted by thousands of developers.
 - <a href="https://github.com/autofelix">
             <img src="https://img.shields.io/badge/github-%E7%8C%BF%E5%8F%8B%E7%BD%91-red.svg" alt="" title="autofelix的github" /></a>
         <a href="https://gitee.com/autofelix">
