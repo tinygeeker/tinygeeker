@@ -7,7 +7,7 @@
 - :sun_with_face: What i have achieved.
 
 <a href="https://github.com/autofelix">
-    <img src="https://img.shields.io/badge/github-%E7%8C%BF%E5%8F%8B%E7%BD%91-red.svg" alt="" title="autofelix的github" /></a>
+    <img src="https://img.shields.io/badge/csdn-38292-red.svg" alt="" title="autofelix的github" /></a>
 <a href="https://gitee.com/autofelix">
 
 ---
