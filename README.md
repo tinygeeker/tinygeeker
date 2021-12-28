@@ -6,11 +6,11 @@
 - :1st_place_medal: My projects are trusted by developers.
 - :sun_with_face: What i have achieved.
 
-<a href="https://autofelix.blog.csdn.net" target='_blank'>
+<a href="https://autofelix.blog.csdn.net">
     <img src="https://img.shields.io/badge/CSDN Page View-115K-E65A65.svg" alt="" title="autofelix的csdn" />
 </a>
 
-<a href="https://cloud.tencent.com/developer/user/8345747/articles" target='_blank'>
+<a href="https://cloud.tencent.com/developer/user/8345747/articles">
     <img src="https://img.shields.io/badge/Tencentcloud Page View-200K-blue.svg" alt="" title="autofelix的腾讯云社区" />
 </a>
 
