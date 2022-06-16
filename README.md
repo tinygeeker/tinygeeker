@@ -1,8 +1,8 @@
-<div align="center">
-    <img src="https://autofelix.github.io/autofelix/u/signature.jpeg" />
-<div>
-
----
+<img 
+    align="right" 
+    style="pointer-events:none;" 
+    src="https://autofelix.github.io/autofelix/u/signature.jpeg" 
+/>
 
 <img 
     align="right" 
