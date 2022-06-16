@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://autofelix.github.io/autofelix/u/signature.jpeg">
+    <img src="https://autofelix.github.io/autofelix/u/signature.jpeg" />
 <div>
 
 ---
