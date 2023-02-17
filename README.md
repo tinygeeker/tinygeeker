@@ -13,11 +13,11 @@
 <!-- ======================================= -->
 
 * 😄Read more about my [CSDN](https://tinygeeker.blog.csdn.net/)
-* 👯Follow me on [Twitter](https://twitter.com/tinygeeker) , [掘金](https://juejin.cn/user/2858385963749223) or [知乎](https://www.zhihu.com/people/tinygeeker)
+* 👯Follow me on [Twitter](https://twitter.com/tinygeeker), [掘金](https://juejin.cn/user/2858385963749223) or [知乎](https://www.zhihu.com/people/tinygeeker)
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=A+passionate+web+developer+based+in+Beijing.++%F0%9F%91%8B)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=A+passionate+web+developer+based+in+Nanjing.++%F0%9F%91%8B)
 
 <!-- ======================================= -->
 
@@ -29,12 +29,12 @@
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=tinygeeker&theme=github)
 
-| <!-- | 
+<!--
 
-![](https://github-readme-stats.vercel.app/api?username=tinygeeker&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tinygeeker&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230)
+![](https://github-readme-stats.vercel.app/api?username=tinygeeker&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tinygeeker&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230)
 
- |
-| ---- | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |>
+-->
 
 ##### Some repo 
 
