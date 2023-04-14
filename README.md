@@ -13,7 +13,7 @@
 <!-- ======================================= -->
 
 * 😄Read more about my [CSDN](https://tinygeeker.blog.csdn.net/)
-* 👯Follow me on [Twitter](https://twitter.com/tinygeeker), [掘金](https://juejin.cn/user/2858385963749223) or [知乎](https://www.zhihu.com/people/tinygeeker)
+* 👯Follow me on [阿里云](https://developer.aliyun.com/profile/expert/oirrcfhlzqzko), [掘金](https://juejin.cn/user/2467756640574845) or [腾讯云](https://cloud.tencent.com/developer/user/8345747)
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
