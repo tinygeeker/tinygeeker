@@ -27,10 +27,11 @@
 
 ##### GitHub status
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=tinygeeker&theme=github)
+![](https://github-readme-stats.vercel.app/api?username=tinygeeker&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs&card_width=500) 
 
 <!--
 
+![](https://github-readme-activity-graph.cyclic.app/graph?username=tinygeeker&theme=github)
 ![](https://github-readme-stats.vercel.app/api?username=tinygeeker&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tinygeeker&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230)
 
@@ -38,10 +39,7 @@
 
 ##### Some repo 
 
-* [dev-boy](https://github.com/tinygeeker/dev-boy)：🛠️An awesome terminal cli toolkit.(小而美的 cli 工具包)🧰  [![](https://img.shields.io/github/stars/tinygeeker/dev-boy)](https://github.com/tinygeeker/dev-boy)     [![](https://img.shields.io/npm/dt/dev-boy?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm)](https://www.npmjs.com/package/dev-boy)
-* [ding-trans](https://github.com/tinygeeker/ding-trans)：🌈一个在终端上翻译的工具，支持有道翻译和 DeepL 翻译。  [![](https://img.shields.io/github/stars/tinygeeker/ding-trans)](https://github.com/tinygeeker/ding-trans)     [![](https://img.shields.io/npm/dt/ding-trans?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm)](https://www.npmjs.com/package/ding-trans)
-* [prm-cli](https://github.com/tinygeeker/prm-cli)：🦄快速切换包管理工具的镜像源  [![](https://img.shields.io/github/stars/tinygeeker/prm-cli)](https://github.com/tinygeeker/prm-cli)     [![](https://img.shields.io/npm/dt/prm-cli?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm)](https://www.npmjs.com/package/prm-cli)
-* [dev-search](https://github.com/tinygeeker/dev-search)：🌸在命令行中快速搜索你想要的！  [![](https://img.shields.io/github/stars/tinygeeker/dev-search)](https://github.com/tinygeeker/dev-search)     [![](https://img.shields.io/npm/dt/dev-search?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm)](https://www.npmjs.com/package/dev-search)
-* [pm-limiter](https://github.com/tinygeeker/pm-limiter)：🥳node 包管理器的约束工具，用于协同项目的统一规范。  [![](https://img.shields.io/github/stars/tinygeeker/pm-limiter)](https://github.com/tinygeeker/pm-limiter)     [![](https://img.shields.io/npm/dt/pm-limiter?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm)](https://www.npmjs.com/package/pm-limiter)
-* [folder-print](https://github.com/tinygeeker/folder-print)：🌿一个用于打印当前目录树形结构的终端命令行工具。  [![](https://img.shields.io/github/stars/tinygeeker/folder-print)](https://github.com/tinygeeker/folder-print)     [![](https://img.shields.io/npm/dt/folder-print?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm)](https://www.npmjs.com/package/folder-print)
-* [fanyi](https://github.com/tinygeeker/fanyi)：VS Code 划词翻译插件  [![](https://img.shields.io/github/stars/tinygeeker/fanyi)](https://github.com/tinygeeker/fanyi)     [![](https://badgen.net/vs-marketplace/i/tinygeeker.fanyi)](https://marketplace.visualstudio.com/items?itemName=tinygeeker.fanyi)
+* [autocue](https://github.com/tinygeeker/autocue)：🛠️AI drawing prompter tool.(AI绘画提词工具)🧰  [![](https://img.shields.io/github/stars/tinygeeker/autocue)](https://github.com/tinygeeker/autocue)
+* [python-spiders](https://github.com/tinygeeker/python-spiders)：🛠️Some crawler projects.(一些爬虫实战项目)🧰  [![](https://img.shields.io/github/stars/tinygeeker/python-spiders)](https://github.com/tinygeeker/python-spiders)
+* [ChatGPT-presets](https://github.com/tinygeeker/ChatGPT-presets)：🛠️Some interesting presets for ChatGPT.(一些ChatGPT有趣的预设包)🧰  [![](https://img.shields.io/github/stars/tinygeeker/ChatGPT-presets)](https://github.com/tinygeeker/ChatGPT-presets)
+* [sitemap](https://github.com/tinygeeker/sitemap)：🛠️Paddling fish website navigation.(划水摸鱼网站导航)🧰  [![](https://img.shields.io/github/stars/tinygeeker/sitemap)](https://github.com/tinygeeker/sitemap)
