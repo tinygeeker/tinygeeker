@@ -27,7 +27,7 @@
 
 ##### GitHub status
 
-![](https://github-readme-stats.vercel.app/api?username=tinygeeker&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs&card_width=500) 
+![](https://github-readme-stats.vercel.app/api?username=tinygeeker&show_icons=truee&include_all_commits=true&hide=prs&card_width=1000) 
 
 <!--
 
